@@ -5,6 +5,13 @@ OSBF — Open Source Broadfork profile drawing forked from diara628 made public 
 
 [orig]: https://github.com/StohanzlMart/Broadfork/blob/master/drawing/Broadfork_profile.png "Broadfork profile"
 
+## Purpose of this Git
+* Test of git
+* Test of permaculture principles
+* Test of open source strategy
+* get 20 Austrian Permaculturists their broadforks sustainably!
+* Training ground for Git-novices!
+
 ## Goal
 ![alt text][logo]
 
@@ -13,11 +20,11 @@ OSBF — Open Source Broadfork profile drawing forked from diara628 made public 
 
 ## Why
 * We want a stirdy broadfork.
-* We want to own the process information so we can produce broadforks locally if desired (they are heavy and hard to transport safely).
+* We want the production process information Open Sourced so everyone can produce broadforks locally where needed.
 
 ## What
-We need a fablab or company to make our tool and for that we need plans.
-Dafür brauchts aber mindestens ein Fablab, wenn nicht sogar eine Auftragswerkstatt, der man die Baupläne für sowas schickt.
+We need workshops, fablabs or companies to make our tool and for that we need plans.
+Dafür brauchts aber mindestens eine gute Werkstatt, ein Fablab, wenn nicht sogar eine Auftragswerkstatt, der man die Baupläne für sowas schickt.
 
 ## How
 * Put research (other broadforks (as links) in ob_name.md, and manufacturer contacts as mc_name.md) in research folder
