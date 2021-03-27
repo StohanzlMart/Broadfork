@@ -1,7 +1,7 @@
 # OS Broadforks (OSBF) for Austria and the whole Wolrd
 Broadfork profile drawing forked from diara628 made public on github 2013: https://github.com/diara628
 
-<img src="https://github.com/StohanzlMart/Broadfork/blob/master/drawing/Broadfork_profile.png" alt="Broadfork profile" width="600"/>
+<img src="https://github.com/StohanzlMart/Broadfork/blob/master/2drawing/Broadfork_profile.png" alt="Broadfork profile" width="600"/>
 
 ## Purpose of this Git
 * Test of git
