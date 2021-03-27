@@ -3,8 +3,9 @@ OSBF — Open Source Broadfork project drawing I found here on github from 2013,
 
 ## Goal
 ![alt text][logo]
-(c)2021 meadowcreature.com
+
 [logo]: https://cdn.shopify.com/s/files/1/0248/3978/2485/products/Meadowcreature2019-14_1024x1024@2x.jpg "Broadfork design"
+(c)2021 meadowcreature.com
 
 ## Why
 * We want a locally made and stirdy broadfork.
