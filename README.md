@@ -1,9 +1,7 @@
-# OS Broadforks for Austria and the whole Wolrd
-OSBF — Open Source Broadfork profile drawing forked from diara628 made public on github 2013: https://github.com/diara628
+# OS Broadforks (OSBF) for Austria and the whole Wolrd
+Broadfork profile drawing forked from diara628 made public on github 2013: https://github.com/diara628
 
-![alt text][orig]
-
-[orig]: https://github.com/StohanzlMart/Broadfork/blob/master/drawing/Broadfork_profile.png "Broadfork profile"
+<img src="https://github.com/StohanzlMart/Broadfork/blob/master/drawing/Broadfork_profile.png" alt="Broadfork profile" width="600"/>
 
 ## Purpose of this Git
 * Test of git
@@ -13,9 +11,7 @@ OSBF — Open Source Broadfork profile drawing forked from diara628 made public 
 * Training ground for Git-novices!
 
 ## Goal
-![alt text][logo]
-
-[logo]: https://cdn.shopify.com/s/files/1/0248/3978/2485/products/Meadowcreature2019-14_1024x1024@2x.jpg "Broadfork design"
+<img src="https://cdn.shopify.com/s/files/1/0248/3978/2485/products/Meadowcreature2019-14_1024x1024@2x.jpg" alt="Broadfork design" width="400"/>
 (c)2021 meadowcreature.com
 
 ## Why
