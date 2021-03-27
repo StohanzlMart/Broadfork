@@ -1,5 +1,9 @@
-# Broadfork
-OSBF — Open Source Broadfork project drawing I found here on github from 2013, made by https://github.com/diara628
+# OS Broadforks for Austria and the whole Wolrd
+OSBF — Open Source Broadfork profile drawing forked from diara628 made public on github 2013: https://github.com/diara628
+
+![alt text][orig]
+
+[orig]: https://github.com/StohanzlMart/Broadfork/blob/master/Broadfork_profile.png "Broadfork profile"
 
 ## Goal
 ![alt text][logo]
@@ -8,10 +12,8 @@ OSBF — Open Source Broadfork project drawing I found here on github from 2013,
 (c)2021 meadowcreature.com
 
 ## Why
-* We want a locally made and stirdy broadfork.
-* We want to own the process information so we can produce broadforks if desired.
-
-Ich denke, Erich hat erwähnt, dass ein befreundeter Betrieb die in Kleinserie hergestellt hat. Ist jetzt nicht super aufwändig das zusammenzuschweißen.
+* We want a stirdy broadfork.
+* We want to own the process information so we can produce broadforks locally if desired (they are heavy and hard to transport safely).
 
 ## What
 We need a fablab or company to make our tool and for that we need plans.
