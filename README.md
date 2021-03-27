@@ -3,7 +3,7 @@ OSBF — Open Source Broadfork profile drawing forked from diara628 made public 
 
 ![alt text][orig]
 
-[orig]: https://github.com/StohanzlMart/Broadfork/blob/master/Broadfork_profile.png "Broadfork profile"
+[orig]: https://github.com/StohanzlMart/Broadfork/blob/master/drawing/Broadfork_profile.png "Broadfork profile"
 
 ## Goal
 ![alt text][logo]
