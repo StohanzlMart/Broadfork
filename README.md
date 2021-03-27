@@ -10,6 +10,7 @@ OSBF — Open Source Broadfork project drawing I found here on github from 2013,
 ## Why
 * We want a locally made and stirdy broadfork.
 * We want to own the process information so we can produce broadforks if desired.
+
 Ich denke, Erich hat erwähnt, dass ein befreundeter Betrieb die in Kleinserie hergestellt hat. Ist jetzt nicht super aufwändig das zusammenzuschweißen.
 
 ## What
