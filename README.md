@@ -40,3 +40,5 @@ Dafür brauchts aber mindestens eine gute Werkstatt, ein Fablab, wenn nicht soga
 9. Verpackung und Transport/packaging and transport
 
 Logistik ist dann noch die letzte Herausforderung, aber wenn wir uns ohnehin irgendwo treffen (Fablab/Werkstatt)?
+
+SCHREIBE jetzt einen Pull Request. Hier Online. Learning by doing.
